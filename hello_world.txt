@@ -4,4 +4,5 @@ do this do that and it`s just to much they should tell you
 this dose this and that dose that . 
 follwing along makes losse track .
 
-All I know is we are tring learn somting.
+All I know is we are tring learn somting. (this was to try vim) 
+now i`m trying code 
